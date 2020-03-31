@@ -1,4 +1,7 @@
 # MPCNC-SKR1.3-TMC2208UART
+UPDATE 03/30/2020
+Previous version would fail to compile, this platformio.ini is fixed and will now compile.
+
 Modified Marlin 2.0 firmware for the BigTreeTech SKR1.3 with TMC2208 UART drivers for the MPCNC. Includes dual end stops.
 
 Features:
